@@ -1,3 +1,7 @@
+setuptools>=42
+wheel
+pip
+
 adagio==0.2.4
 altair==5.4.1
 annotated-types==0.7.0
@@ -162,4 +166,3 @@ webencodings==0.5.1
 websocket-client==1.8.0
 widgetsnbextension==4.0.10
 setuptools
-distutils
